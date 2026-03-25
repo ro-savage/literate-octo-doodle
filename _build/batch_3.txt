@@ -1,0 +1,17 @@
+/industry/tower
+/industry/construction
+/industry/renewables
+/industry/training-centres
+/industry/lifting
+/industry/telecoms
+/industry/mining
+/industry/oil-and-gas
+/industry/energy
+/industry/marine
+/industry/government
+/industry/events-rigging
+/smart-products/arbo-space
+/smart-products/aspiring-safety
+/smart-products/at-height
+/smart-products/beal
+/smart-products/bluewater-ropes

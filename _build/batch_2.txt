@@ -1,0 +1,17 @@
+/inspection-management-software-lp
+/compliance-management-software-lp
+/safety-equipment-management-software-lp
+/inventory-management-software-lp
+/roi-calculator
+/customers
+/nfc-tag-selector
+/book-a-call-confirmation
+/confirmation
+/demo-library
+/products/equipment-assignment
+/products/digital-inspections
+/products/compliance-management
+/industry/rope-access
+/industry/fire
+/industry/arboriculture
+/industry/rescue

@@ -1,0 +1,13 @@
+/blog/quick-guide-the-easiest-way-to-track-and-inspect-your-gear-in-one-place
+/blog/scannable-pro-taking-equipment-management-to-the-next-level
+/blog/scannable-pro-turns-one
+/blog/software-that-supports-2d-and-nfc-scanning-for-asset-tracking
+/blog/sprat-requirements-for-equipment-management-records-and-inspections
+/blog/standards-and-regulations-what-are-the-differences
+/blog/the-challenges-of-tracing-rope
+/blog/the-state-of-ppe-compliance-report-2025-2026
+/blog/using-petzl-codes-and-other-scannable-technology
+/blog/what-is-the-best-compliance-tracking-software-for-safety-equipment-inspections
+/blog/what-to-expect-when-you-sign-up-for-scannable-pro
+/blog/which-adhesive-is-best-for-applying-our-nfc-tags
+/blog/why-were-building-scannable

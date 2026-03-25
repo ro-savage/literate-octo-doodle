@@ -1,0 +1,17 @@
+/blog/how-do-i-manage-compliance-and-inspection-reports-in-one-place
+/blog/how-to-manage-compliance-inspections-digitally
+/blog/how-to-store-inspection-records-for-compliance
+/blog/how-will-you-level-up-your-safety-in-2023
+/blog/introducing-folders-a-smarter-way-to-organise-your-safety-equipment
+/blog/inventory-management-software-tracking-systems-everything-you-need-to-know
+/blog/inventory-tracking-software-vs-asset-management-software-which-do-you-need-for-safety-critical-teams
+/blog/inventory-tracking-with-2d-codes-how-it-works-and-why-it-matters
+/blog/irata-requirements-for-equipment-management-records-and-inspections
+/blog/leading-the-future-of-safety-elevated-safety-europe-adopts-scannables-smart-technology
+/blog/loler-and-puwer-requirements-for-equipment-management-records-and-inspections
+/blog/making-sense-of-helmet-standards
+/blog/market-has-spoken-weve-listened
+/blog/nfc-based-asset-management-how-tap-to-track-makes-compliance-simple
+/blog/nfc-rfid-wtf
+/blog/nfc-tags-what-tags-should-i-choose-and-how-do-i-apply-them
+/blog/ppe-regulations-standards-and-best-practice

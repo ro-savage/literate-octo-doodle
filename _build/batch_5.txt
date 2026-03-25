@@ -1,0 +1,17 @@
+/smart-products/singing-rock
+/smart-products/sterling-rope
+/smart-products/strep
+/smart-products/trango
+/smart-products/wrs-international
+/smart-products/xmonster
+/case-studies/connect-group
+/case-studies/fcs-group
+/case-studies/geoarc
+/case-studies/geovert
+/case-studies/hfr-solutions
+/case-studies/rope-partner
+/nfc-tag-equipment-type-page/nfc-tags-for-carabiners
+/nfc-tag-equipment-type-page/nfc-tags-for-descenders
+/nfc-tag-equipment-type-page/nfc-tags-for-harnesses
+/nfc-tag-equipment-type-page/nfc-tags-for-helmets
+/nfc-tag-equipment-type-page/nfc-tags-for-lifting

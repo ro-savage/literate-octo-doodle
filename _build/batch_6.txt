@@ -1,0 +1,17 @@
+/nfc-tag-equipment-type-page/nfc-tags-for-ropes
+/nfc-tag-equipment-type-page/nfc-tags-for-scaffolding
+/nfc-tag-equipment-type-page/nfc-tags-for-shackles
+/nfc-tag-equipment-type-page/nfc-tags-for-slings-and-webbing
+/nfc-tag-equipment-type-page/nfc-tags-for-wire-strops
+/blog/2024-wrapped-a-year-full-of-new-features-manufacturer-partnerships-smart-products-and-more
+/blog/asset-management-software-systems-the-complete-guide-to-tracking-scheduling-compliance
+/blog/asset-tracking-software-for-rope-access-teams
+/blog/best-asset-tracking-software-for-safety-equipment
+/blog/compliance-tracking-software-checklists-everything-you-need-to-stay-audit-ready
+/blog/compliance-vs-best-practice-what-should-we-be-aiming-for
+/blog/cut-out-data-entry-with-smart-products
+/blog/do-you-need-to-label-your-ropes
+/blog/equipment-tracking-and-compliance-reporting-the-complete-guide
+/blog/fall-arrest-lanyards-what-you-should-know
+/blog/fall-restraint-work-positioning-and-fall-arrest
+/blog/finding-your-phones-nfc-sweet-spot

@@ -1,0 +1,15 @@
+/inspection-management-software-lp
+/inspectors
+/inventory-management-software-lp
+/manufacturers
+/pro
+/resellers
+/safety-equipment-management-software-lp
+/smart-ppe
+/smart-products/arbo-space
+/smart-products/beal
+/smart-products/bluewater-ropes
+/smart-products/clogger
+/smart-products/cmi
+/smart-products/edelrid
+/smart-products/hexarope

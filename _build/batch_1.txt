@@ -1,0 +1,17 @@
+/blog
+/inspectors
+/resellers
+/manufacturers
+/privacy-policy
+/terms-conditions
+/getting-started
+/bookademo
+/contact
+/getting-started-tags
+/vsg-nfc
+/getting-started-data-matrix
+/vsg-dm
+/pro
+/book-a-demo-confirmation
+/getting-started/rope-logic
+/asset-management-software-lp

@@ -1,0 +1,15 @@
+/blog/nfc-tags-what-tags-should-i-choose-and-how-do-i-apply-them
+/blog/ppe-regulations-standards-and-best-practice
+/blog/scannable-pro-taking-equipment-management-to-the-next-level
+/blog/scannable-pro-turns-one
+/blog/sprat-requirements-for-equipment-management-records-and-inspections
+/blog/standards-and-regulations-what-are-the-differences
+/blog/the-state-of-ppe-compliance-report-2025-2026
+/blog/using-petzl-codes-and-other-scannable-technology
+/blog/what-to-expect-when-you-sign-up-for-scannable-pro
+/blog/which-adhesive-is-best-for-applying-our-nfc-tags
+/blog/why-were-building-scannable
+/compliance-management-software-lp
+/demo-library
+/industry/energy
+/industry/rescue

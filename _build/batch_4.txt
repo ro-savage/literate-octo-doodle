@@ -1,0 +1,17 @@
+/smart-products/clogger
+/smart-products/cmi
+/smart-products/edelrid
+/smart-products/hexarope
+/smart-products/highnovate
+/smart-products/honey-brothers
+/smart-products/kiwiklimbers
+/smart-products/lrv8-rescue
+/smart-products/lyon-work-rescue
+/smart-products/maple-leaf-ropes
+/smart-products/nlg
+/smart-products/notch
+/smart-products/palmu
+/smart-products/redwing
+/smart-products/reecoil
+/smart-products/rope-logic
+/smart-products/sar-products
